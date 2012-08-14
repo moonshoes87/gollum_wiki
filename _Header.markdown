@@ -1,4 +1,4 @@
 <html>
-[[_TOC_]]
+'[[_TOC_]]
 <em>Fairytales are weird</em>
 </html>
