@@ -1,6 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  
-  "http://www.w3.org/TR/html4/loose.dtd">  
-<html > 
+ <html > 
 <head><title>PmagPy Cookbook</title> 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
 <meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)"> 
@@ -9,9 +7,8 @@
 <meta name="src" content="WebPmagPy.tex"> 
 <meta name="date" content="2012-07-10 18:32:00"> 
 <link rel="stylesheet" type="text/css" href="WebPmagPy.css"> 
-</head><body 
->
-<!--l. 56--><p class="noindent" >July 10, 2012    <div class="maketitle">
+</head><body >
+<p class="noindent" >July 10, 2012    <div class="maketitle">
                                                                               
 
                                                                               
@@ -22,11 +19,9 @@
 
                                                                               
 
-<h2 class="titleHead">PmagPy Cookbook</h2>
-            <div class="author" ><span 
-class="cmr-12">Lisa Tauxe</span>
-<br /><span 
-class="cmr-12">Scripps Institution of Oceanography</span>
+Lisa Tauxe</span>
+<br />
+Scripps Institution of Oceanography
 <br />      <span 
 class="cmr-12">La Jolla, CA 92093-0220</span></div><br />
 <div class="date" ><span 
