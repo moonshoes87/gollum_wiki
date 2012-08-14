@@ -1,4 +1,4 @@
 
-'[[_TOC_]]
+'[[_TOC_]]'
 <em>Fairytales are weird</em>
 [[_TOC_]]
