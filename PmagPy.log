@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  14 AUG 2012 17:25
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  14 AUG 2012 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -675,56 +675,27 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 56.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1] [2]
 Chapter 1.
-
-LaTeX Warning: File `EPSfiles/terminal.png' not found on input line 70.
-
-l.70 --- TeX4ht warning --- File `EPSfiles/terminal.png' not found ---
 l.70 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/termin
 al.png (no BoundingBox) ---
 l. 70 --- needs --- EPSfiles/terminal.png ---
-
-LaTeX Warning: File `EPSfiles/cmd.eps' not found on input line 74.
-
 l. 74 Writing PmagPy.idv[1] (PmagPy0x.png)
-l.74 --- TeX4ht warning --- File `EPSfiles/cmd.eps' not found ---
-l.74 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/cmd.ep
-s (no BoundingBox) ---
 File: EPSfiles/cmd.eps Graphic file (type eps)
 <EPSfiles/cmd.eps> [3
 
 ]
-
-LaTeX Warning: File `EPSfiles/terminals.eps' not found on input line 78.
-
 l. 78 Writing PmagPy.idv[2] (PmagPy1x.png)
-l.78 --- TeX4ht warning --- File `EPSfiles/terminals.eps' not found ---
-l.78 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/termin
-als.eps (no BoundingBox) ---
 File: EPSfiles/terminals.eps Graphic file (type eps)
-<EPSfiles/terminals.eps> [4]
-
-LaTeX Warning: File `EPSfiles/filesys.eps' not found on input line 92.
-
-[5]
+ <EPSfiles/terminals.eps>
 l. 92 Writing PmagPy.idv[3] (PmagPy2x.png)
-
-l.92 --- TeX4ht warning --- File `EPSfiles/filesys.eps' not found ---
-l.92 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/filesy
-s.eps (no BoundingBox) ---
 File: EPSfiles/filesys.eps Graphic file (type eps)
-<EPSfiles/filesys.eps> [6] [7] [8] [9]
-
-LaTeX Warning: File `EPSfiles/matplotlib.eps' not found on input line 191.
-
+ <EPSfiles/filesys.eps> [4]
+[5] [6] [7] [8]
 l. 191 Writing PmagPy.idv[4] (PmagPy3x.png)
-l.191 --- TeX4ht warning --- File `EPSfiles/matplotlib.eps' not found ---
-l.191 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/matpl
-otlib.eps (no BoundingBox) ---
 File: EPSfiles/matplotlib.eps Graphic file (type eps)
-<EPSfiles/matplotlib.eps> [10] [11]
+ <EPSfiles/matplotlib.eps> [9] [10]
 l. 223 Writing PmagPy.idv[5] (PmagPy4x.png)
 l. 223 Writing PmagPy.idv[6] (PmagPy5x.png)
- [12]
+ [11]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 237.
 
 
@@ -733,9 +704,9 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 237.
- [13] [14]
-[15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29]
-[30] [31] [32] [33] [34] [35] [36] [37] [38]
+ [12] [13]
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+[29] [30] [31] [32] [33] [34] [35] [36] [37]
 
 LaTeX Warning: File `EPSfiles/ndim.eps' not found on input line 615.
 
@@ -744,315 +715,301 @@ l.615 --- TeX4ht warning --- File `EPSfiles/ndim.eps' not found ---
 l.615 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/ndim.
 eps (no BoundingBox) ---
 File: EPSfiles/ndim.eps Graphic file (type eps)
-<EPSfiles/ndim.eps> [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
-[65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
-[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
-[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-
-LaTeX Warning: File `EPSfiles/matplotlib1.eps' not found on input line 1621.
-
+<EPSfiles/ndim.eps> [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48]
+[49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
+[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
+[94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
 l. 1621 Writing PmagPy.idv[8] (PmagPy7x.png)
-l.1621 --- TeX4ht warning --- File `EPSfiles/matplotlib1.eps' not found ---
-l.1621 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/matp
-lotlib1.eps (no BoundingBox) ---
 File: EPSfiles/matplotlib1.eps Graphic file (type eps)
-<EPSfiles/matplotlib1.eps> [107] [108] [109]
 
-LaTeX Warning: File `EPSfiles/matplotlib2.eps' not found on input line 1664.
-
+<EPSfiles/matplotlib1.eps> [106] [107] [108]
 l. 1664 Writing PmagPy.idv[9] (PmagPy8x.png)
-l.1664 --- TeX4ht warning --- File `EPSfiles/matplotlib2.eps' not found ---
-l.1664 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/matp
-lotlib2.eps (no BoundingBox) ---
 File: EPSfiles/matplotlib2.eps Graphic file (type eps)
-<EPSfiles/matplotlib2.eps> [110] [111] [112] [113]
-
-LaTeX Warning: File `EPSfiles/matplotlib3.eps' not found on input line 1722.
-
+ <EPSfiles/matplotlib2.eps>
+[109] [110] [111] [112]
 l. 1722 Writing PmagPy.idv[10] (PmagPy9x.png)
-l.1722 --- TeX4ht warning --- File `EPSfiles/matplotlib3.eps' not found ---
-l.1722 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/matp
-lotlib3.eps (no BoundingBox) ---
 File: EPSfiles/matplotlib3.eps Graphic file (type eps)
-<EPSfiles/matplotlib3.eps> [114] [115]
-
-LaTeX Warning: File `EPSfiles/matplotlib4.eps' not found on input line 1756.
-
+ <EPSfiles/matplotlib3.eps> [113] [114]
 l. 1756 Writing PmagPy.idv[11] (PmagPy10x.png)
-l.1756 --- TeX4ht warning --- File `EPSfiles/matplotlib4.eps' not found ---
-l.1756 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/matp
-lotlib4.eps (no BoundingBox) ---
 File: EPSfiles/matplotlib4.eps Graphic file (type eps)
-<EPSfiles/matplotlib4.eps> [116] [117] [118
 
-]
+<EPSfiles/matplotlib4.eps> [115] [116]
 Chapter 2.
-
-LaTeX Warning: File `EPSfiles/MagIC_search.eps' not found on input line 1788.
-
 l. 1788 Writing PmagPy.idv[12] (PmagPy11x.png)
-l.1788 --- TeX4ht warning --- File `EPSfiles/MagIC_search.eps' not found ---
-l.1788 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/MagI
-C_search.eps (no BoundingBox) ---
 File: EPSfiles/MagIC_search.eps Graphic file (type eps)
-<EPSfiles/MagIC_search.eps> [119] [120] [121] [122] [123
+<EPSfiles/MagIC_search.eps> [117
+
+] [118] [119
+
+] [120
+
+] [121
+
+] [122
+
+] [123
 
 ] [124
 
-] [125
-
-] [126
-
-]
-[127
-
-]
-
-LaTeX Warning: Reference `tab:meth' on page 128 undefined on input line 1913.
-
-[128
-
 ]
 Chapter 3.
-[129
+[125
 
 ]
 \exnum=\count100
- [130]
+ [126]
 Chapter 4.
-[131
+[127
 
-] [132] [133] [134]
+] [128] [129] [130]
 
 Package natbib Warning: Citation `tauxe12' undefined on input line 2095.
 
-[135]
-
-LaTeX Warning: File `EPSfiles/tauxe12-magic.eps' not found on input line 2102.
-
+[131]
 l. 2102 Writing PmagPy.idv[13] (PmagPy12x.png)
-l.2102 --- TeX4ht warning --- File `EPSfiles/tauxe12-magic.eps' not found ---
-l.2102 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/taux
-e12-magic.eps (no BoundingBox) ---
 File: EPSfiles/tauxe12-magic.eps Graphic file (type eps)
-<EPSfiles/tauxe12-magic.eps> [136]
-
-LaTeX Warning: File `EPSfiles/ani-depthplot.eps' not found on input line 2113.
-
+ <EPSfiles/tauxe12-magic.eps> [132]
 l. 2113 Writing PmagPy.idv[14] (PmagPy13x.png)
-l.2113 --- TeX4ht warning --- File `EPSfiles/ani-depthplot.eps' not found ---
-l.2113 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/ani-
-depthplot.eps (no BoundingBox) ---
 File: EPSfiles/ani-depthplot.eps Graphic file (type eps)
-<EPSfiles/ani-depthplot.eps> [137] [138]
-
-LaTeX Warning: File `EPSfiles/dike.eps' not found on input line 2145.
-
+ <EPSfiles/ani-depthplot.eps> [133]
+[134]
 l. 2145 Writing PmagPy.idv[15] (PmagPy14x.png)
-l.2145 --- TeX4ht warning --- File `EPSfiles/dike.eps' not found ---
-l.2145 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/dike
-.eps (no BoundingBox) ---
 File: EPSfiles/dike.eps Graphic file (type eps)
-<EPSfiles/dike.eps> [139] [140] [141]
-
-LaTeX Warning: File `EPSfiles/sed-aniso.eps' not found on input line 2170.
-
+ <EPSfiles/dike.eps> [135] [136]
 l. 2170 Writing PmagPy.idv[16] (PmagPy15x.png)
-l.2170 --- TeX4ht warning --- File `EPSfiles/sed-aniso.eps' not found ---
-l.2170 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/sed-
-aniso.eps (no BoundingBox) ---
 File: EPSfiles/sed-aniso.eps Graphic file (type eps)
-<EPSfiles/sed-aniso.eps> [142] [143] [144] [145]
-
-LaTeX Warning: File `EPSfiles/atrm_meas.eps' not found on input line 2219.
-
+ <EPSfiles/sed-aniso.eps> [137] [138]
+[139] [140]
 l. 2219 Writing PmagPy.idv[17] (PmagPy16x.png)
-l.2219 --- TeX4ht warning --- File `EPSfiles/atrm_meas.eps' not found ---
-l.2219 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/atrm
-_meas.eps (no BoundingBox) ---
 File: EPSfiles/atrm_meas.eps Graphic file (type eps)
-<EPSfiles/atrm_meas.eps> [146] [147] [148] [149] [150]
-
-LaTeX Warning: File `EPSfiles/basemap.eps' not found on input line 2301.
-
+ <EPSfiles/atrm_meas.eps> [141] [142] [143] [144] [145]
 l. 2301 Writing PmagPy.idv[18] (PmagPy17x.png)
-l.2301 --- TeX4ht warning --- File `EPSfiles/basemap.eps' not found ---
-l.2301 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/base
-map.eps (no BoundingBox) ---
 File: EPSfiles/basemap.eps Graphic file (type eps)
-<EPSfiles/basemap.eps> [151] [152] [153]
 
-LaTeX Warning: File `EPSfiles/arm-x.eps' not found on input line 2344.
-
+<EPSfiles/basemap.eps> [146] [147] [148]
 l. 2344 Writing PmagPy.idv[19] (PmagPy18x.png)
-l.2344 --- TeX4ht warning --- File `EPSfiles/arm-x.eps' not found ---
-l.2344 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/arm-
-x.eps (no BoundingBox) ---
 File: EPSfiles/arm-x.eps Graphic file (type eps)
-<EPSfiles/arm-x.eps> [154] [155] [156] [157] [158] [159] [160]
+ <EPSfiles/arm-x.eps> [149] [150]
+[151] [152] [153] [154]
 
 Package natbib Warning: Citation `carterstiglitz06' undefined on input line 247
 2.
 
-[161]
-
-LaTeX Warning: File `EPSfiles/chi-magic.eps' not found on input line 2487.
-
+[155]
 l. 2487 Writing PmagPy.idv[20] (PmagPy19x.png)
-l.2487 --- TeX4ht warning --- File `EPSfiles/chi-magic.eps' not found ---
-l.2487 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/chi-
-magic.eps (no BoundingBox) ---
 File: EPSfiles/chi-magic.eps Graphic file (type eps)
-<EPSfiles/chi-magic.eps> [162] [163]
-
-LaTeX Warning: Reference `ex:agm_magic' on page 164 undefined on input line 249
-5.
-
-[164]
-
-LaTeX Warning: File `EPSfiles/common-mean-eq.eps' not found on input line 2517.
-
-
+ <EPSfiles/chi-magic.eps> [156] [157]
 l. 2517 Writing PmagPy.idv[21] (PmagPy20x.png)
-l.2517 --- TeX4ht warning --- File `EPSfiles/common-mean-eq.eps' not found ---
-l.2517 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/comm
-on-mean-eq.eps (no BoundingBox) ---
 File: EPSfiles/common-mean-eq.eps Graphic file (type eps)
-<EPSfiles/common-mean-eq.eps> [165] [166]
-
-LaTeX Warning: File `EPSfiles/common-mean.eps' not found on input line 2532.
-
+ <EPSfiles/common-mean-eq.eps>
+[158]
 l. 2532 Writing PmagPy.idv[22] (PmagPy21x.png)
-l.2532 --- TeX4ht warning --- File `EPSfiles/common-mean.eps' not found ---
-l.2532 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/comm
-on-mean.eps (no BoundingBox) ---
 File: EPSfiles/common-mean.eps Graphic file (type eps)
-<EPSfiles/common-mean.eps> [167] [168] [169]
-
-LaTeX Warning: File `EPSfiles/common-mean-EX.eps' not found on input line 2548.
-
-
+ <EPSfiles/common-mean.eps> [159]
 l. 2548 Writing PmagPy.idv[23] (PmagPy22x.png)
-l.2548 --- TeX4ht warning --- File `EPSfiles/common-mean-EX.eps' not found ---
-l.2548 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/comm
-on-mean-EX.eps (no BoundingBox) ---
 File: EPSfiles/common-mean-EX.eps Graphic file (type eps)
-<EPSfiles/common-mean-EX.eps> [170] [171]
+ <EPSfiles/common-mean-EX.eps>
 
 Package natbib Warning: Citation `torsvik08' undefined on input line 2556.
 
-[172]
-
-LaTeX Warning: File `EPSfiles/controt.eps' not found on input line 2573.
-
+[160]
 l. 2573 Writing PmagPy.idv[24] (PmagPy23x.png)
-l.2573 --- TeX4ht warning --- File `EPSfiles/controt.eps' not found ---
-l.2573 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/cont
-rot.eps (no BoundingBox) ---
 File: EPSfiles/controt.eps Graphic file (type eps)
-<EPSfiles/controt.eps> [173] [174] [175]
+ <EPSfiles/controt.eps> [161] [162]
 
 Package natbib Warning: Citation `tauxe97' undefined on input line 2600.
 
 
 Package natbib Warning: Citation `gradstein04' undefined on input line 2600.
 
-[176]
-
-LaTeX Warning: File `EPSfiles/core-depthplot.eps' not found on input line 2608.
-
-
+[163]
 l. 2608 Writing PmagPy.idv[25] (PmagPy24x.png)
-l.2608 --- TeX4ht warning --- File `EPSfiles/core-depthplot.eps' not found ---
-l.2608 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/core
--depthplot.eps (no BoundingBox) ---
 File: EPSfiles/core-depthplot.eps Graphic file (type eps)
-<EPSfiles/core-depthplot.eps> [177] [178]
-
-LaTeX Warning: File `EPSfiles/curie-ex.eps' not found on input line 2630.
-
+ <EPSfiles/core-depthplot.eps> [164]
 l. 2630 Writing PmagPy.idv[26] (PmagPy25x.png)
-l.2630 --- TeX4ht warning --- File `EPSfiles/curie-ex.eps' not found ---
-l.2630 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/curi
-e-ex.eps (no BoundingBox) ---
 File: EPSfiles/curie-ex.eps Graphic file (type eps)
-<EPSfiles/curie-ex.eps> [179] [180] [181]
-
-LaTeX Warning: File `EPSfiles/dayplot.eps' not found on input line 2689.
-
+ <EPSfiles/curie-ex.eps> [165]
+[166] [167]
 l. 2689 Writing PmagPy.idv[27] (PmagPy26x.png)
-l.2689 --- TeX4ht warning --- File `EPSfiles/dayplot.eps' not found ---
-l.2689 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/dayp
-lot.eps (no BoundingBox) ---
 File: EPSfiles/dayplot.eps Graphic file (type eps)
-<EPSfiles/dayplot.eps> [182] [183] [184] [185] [186]
-
-LaTeX Warning: File `EPSfiles/di_geo_spc_eq.eps' not found on input line 2741.
-
+ <EPSfiles/dayplot.eps> [168] [169] [170]
 l. 2741 Writing PmagPy.idv[28] (PmagPy27x.png)
-l.2741 --- TeX4ht warning --- File `EPSfiles/di_geo_spc_eq.eps' not found ---
-l.2741 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/di_g
-eo_spc_eq.eps (no BoundingBox) ---
 File: EPSfiles/di_geo_spc_eq.eps Graphic file (type eps)
-<EPSfiles/di_geo_spc_eq.eps> [187]
 
-LaTeX Warning: File `EPSfiles/di_geo_geo_eq.eps' not found on input line 2753.
-
+<EPSfiles/di_geo_spc_eq.eps> [171]
 l. 2753 Writing PmagPy.idv[29] (PmagPy28x.png)
-l.2753 --- TeX4ht warning --- File `EPSfiles/di_geo_geo_eq.eps' not found ---
-l.2753 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/di_g
-eo_geo_eq.eps (no BoundingBox) ---
 File: EPSfiles/di_geo_geo_eq.eps Graphic file (type eps)
-<EPSfiles/di_geo_geo_eq.eps> [188]
-
-LaTeX Warning: File `EPSfiles/dirot.eps' not found on input line 2777.
-
+ <EPSfiles/di_geo_geo_eq.eps> [172]
 l. 2777 Writing PmagPy.idv[30] (PmagPy29x.png)
-l.2777 --- TeX4ht warning --- File `EPSfiles/dirot.eps' not found ---
-l.2777 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/diro
-t.eps (no BoundingBox) ---
 File: EPSfiles/dirot.eps Graphic file (type eps)
-<EPSfiles/dirot.eps> [189] [190] [191] [192] [193] [194] [195] [196]
 
-LaTeX Warning: File `EPSfiles/dmag.eps' not found on input line 2953.
-
+<EPSfiles/dirot.eps> [173] [174] [175] [176] [177] [178] [179]
 l. 2953 Writing PmagPy.idv[31] (PmagPy30x.png)
-l.2953 --- TeX4ht warning --- File `EPSfiles/dmag.eps' not found ---
-l.2953 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/dmag
-.eps (no BoundingBox) ---
 File: EPSfiles/dmag.eps Graphic file (type eps)
-<EPSfiles/dmag.eps> [197] [198] [199] [200] [201]
 
-LaTeX Warning: Reference `app:eqarea' on page 202 undefined on input line 3032.
+<EPSfiles/dmag.eps> [180] [181] [182] [183]
 
-
-[202]
-
-LaTeX Warning: Reference `app:eqarea' on page 203 undefined on input line 3048.
+LaTeX Warning: Reference `app:eqarea' on page 184 undefined on input line 3032.
 
 
-[203] [204]
+[184]
 
-LaTeX Warning: File `EPSfiles/eqarea.eps' not found on input line 3087.
+LaTeX Warning: Reference `app:eqarea' on page 185 undefined on input line 3048.
 
+
+[185] [186]
 l. 3087 Writing PmagPy.idv[32] (PmagPy31x.png)
-l.3087 --- TeX4ht warning --- File `EPSfiles/eqarea.eps' not found ---
-l.3087 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/eqar
-ea.eps (no BoundingBox) ---
 File: EPSfiles/eqarea.eps Graphic file (type eps)
-<EPSfiles/eqarea.eps> [205]
-
-LaTeX Warning: File `EPSfiles/eqarea_ell.eps' not found on input line 3117.
-
+ <EPSfiles/eqarea.eps> [187]
 l. 3117 Writing PmagPy.idv[33] (PmagPy32x.png)
-l.3117 --- TeX4ht warning --- File `EPSfiles/eqarea_ell.eps' not found ---
-l.3117 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/eqar
-ea_ell.eps (no BoundingBox) ---
 File: EPSfiles/eqarea_ell.eps Graphic file (type eps)
-<EPSfiles/eqarea_ell.eps> [206] [207] [208]
-
-LaTeX Warning: File `EPSfiles/eqarea-magic.eps' not found on input line 3173.
-
+ <EPSfiles/eqarea_ell.eps> [188]
+[189] [190]
 l. 3173 Writing PmagPy.idv[34] (PmagPy33x.png)
-l.3173 --- TeX4ht warning --- File `EPSfiles/eqarea-magi
+File: EPSfiles/eqarea-magic.eps Graphic file (type eps)
+ <EPSfiles/eqarea-magic.eps> [191]
+l. 3203 Writing PmagPy.idv[35] (PmagPy34x.png)
+File: EPSfiles/eqarea_magic_BV.eps Graphic file (type eps)
+ <EPSfiles/eqarea_magic_BV.eps>
+[192] [193]
+
+Package natbib Warning: Citation `tauxe04d' undefined on input line 3231.
+
+[194]
+l. 3259 Writing PmagPy.idv[36] (PmagPy35x.png)
+File: EPSfiles/find_EI.eps Graphic file (type eps)
+ <EPSfiles/find_EI.eps> [195] [196] [197]
+l. 3301 Writing PmagPy.idv[37] (PmagPy36x.png)
+File: EPSfiles/fishqq-ex.eps Graphic file (type eps)
+ <EPSfiles/fishqq-ex.eps>
+[198] [199]
+l. 3350 Writing PmagPy.idv[38] (PmagPy37x.png)
+File: EPSfiles/foldtest-ex.eps Graphic file (type eps)
+ <EPSfiles/foldtest-ex.eps> [200] [201] [202] [203] [204] [205]
+[206] [207]
+! Undefined control sequence.
+l.3458 \includeraphics
+                      [width=10cm]{grab_magic_key.eps}
+? 
+[208]
+l. 3474 Writing PmagPy.idv[39] (PmagPy38x.png)
+File: EPSfiles/hist.eps Graphic file (type eps)
+ <EPSfiles/hist.eps>
+
+LaTeX Warning: Reference `app:hyst' on page 209 undefined on input line 3477.
+
+
+LaTeX Warning: Reference `app:MagIC' on page 209 undefined on input line 3477.
+
+[209]
+l. 3496 Writing PmagPy.idv[40] (PmagPy39x.png)
+File: EPSfiles/hysteresis-magic.eps Graphic file (type eps)
+ <EPSfiles/hysteresis-magic.eps> [210] [211] [212]
+
+Package natbib Warning: Citation `korte11a' undefined on input line 3522.
+
+
+Package natbib Warning: Citation `korte11b' undefined on input line 3522.
+
+[213] [214]
+l. 3539 Writing PmagPy.idv[41] (PmagPy40x.png)
+File: EPSfiles/plotXY.eps Graphic file (type eps)
+ <EPSfiles/plotXY.eps> [215] [216] [217]
+l. 3580 Writing PmagPy.idv[42] (PmagPy41x.png)
+File: EPSfiles/irmaq_magic.eps Graphic file (type eps)
+ <EPSfiles/irmaq_magic.eps>
+
+Package natbib Warning: Citation `jelinek77' undefined on input line 3589.
+
+[218]
+l. 3591 Writing PmagPy.idv[43] (PmagPy42x.png)
+File: EPSfiles/meas15.eps Graphic file (type eps)
+ <EPSfiles/meas15.eps> [219] [220]
+
+Package natbib Warning: Citation `jelinek77' undefined on input line 3609.
+
+[221] [222]
+
+Package natbib Warning: Citation `gee08' undefined on input line 3659.
+
+[223]
+
+Package natbib Warning: Citation `tauxe03' undefined on input line 3672.
+
+[224]
+l. 3698 Writing PmagPy.idv[44] (PmagPy43x.png)
+File: EPSfiles/lnp-ex.eps Graphic file (type eps)
+ <EPSfiles/lnp-ex.eps> [225] [226]
+l. 3719 Writing PmagPy.idv[45] (PmagPy44x.png)
+File: EPSfiles/lowrie.eps Graphic file (type eps)
+ <EPSfiles/lowrie.eps> [227] [228]
+[229] [230] [231]
+l. 3846 Writing PmagPy.idv[46] (PmagPy45x.png)
+File: EPSfiles/nrm-eq.eps Graphic file (type eps)
+ <EPSfiles/nrm-eq.eps> [232] [233]
+l. 3871 Writing PmagPy.idv[47] (PmagPy46x.png)
+File: EPSfiles/suncomp.eps Graphic file (type eps)
+ <EPSfiles/suncomp.eps>
+[234]
+l.3889 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/pome
+roy.png (no BoundingBox) ---
+l. 3889 --- needs --- EPSfiles/pomeroy.png ---
+l.3893 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/stri
+ke_dip.png (no BoundingBox) ---
+l. 3893 --- needs --- EPSfiles/strike_dip.png ---
+l.3897 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/stri
+ke_dip.png (no BoundingBox) ---
+l. 3897 --- needs --- EPSfiles/strike_dip.png ---
+l.3901 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/fiel
+d-lab.png (no BoundingBox) ---
+l. 3901 --- needs --- EPSfiles/field-lab.png ---
+l.3905 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/azdi
+p.png (no BoundingBox) ---
+l. 3905 --- needs --- EPSfiles/azdip.png ---
+l.3910 --- TeX4ht warning --- Cannot determine size of graphic in EPSfiles/hand
+.png (no BoundingBox) ---
+l. 3910 --- needs --- EPSfiles/hand.png ---
+[235] [236] [237] [238]
+
+LaTeX Warning: Reference `app:MagIC' on page 239 undefined on input line 3960.
+
+[239] [240]
+l. 4011 Writing PmagPy.idv[48] (PmagPy47x.png)
+File: EPSfiles/plotdi-a-example.eps Graphic file (type eps)
+ <EPSfiles/plotdi-a-example.eps>
+l. 4208 Writing PmagPy.idv[49] (PmagPy48x.png)
+File: EPSfiles/samples.eps Graphic file (type eps)
+ <EPSfiles/samples.eps> [241]
+[242] [243]
+No file PmagPy.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4756.
+[244]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4756.
+ (./PmagPy.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 4756.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 4756.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4756.
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 1694 ({)
+### simple group (level 1) entered at line 478 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 9995 strings out of 493634
+ 135736 string characters out of 3143401
+ 339926 words of memory out of 3000000
+ 13048 multiletter control sequences out of 15000+200000
+ 15109 words of font info for 56 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 37i,9n,30p,1914b,1416s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on PmagPy.dvi (247 pages, 649080 bytes).
